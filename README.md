@@ -28,3 +28,4 @@ BMP180
 HC05 bluetooth module
 Servo motor
 
+Note to the reader: I'll keep adding more files here
